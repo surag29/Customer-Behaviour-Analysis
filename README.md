@@ -81,6 +81,8 @@ An interactive dashboard was built on top of the same cleaned dataset, featuring
 - **Visuals:** Revenue & sales by category, revenue & sales by age group, subscription split (donut)
 - **Slicers:** Gender, category, shipping type, subscription status
 
+![Power BI Dashboard](dashboard-screenshot.png)
+
 ---
 
 ## 💡 Key Insights
